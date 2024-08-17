@@ -34,6 +34,24 @@ input{
     padding:3px 10px;
     border-radius: 10px;
 }
+
+@media (max-width:500px){
+    #container{
+        height: 50vh;
+        width:25vh;
+    }
+    .col-heading{
+        font-size:18px;
+    }
+    h1{
+        font-size: 25px;
+    }
+    input{
+        font-size:16px;
+        height:4vh;
+        width:18vh;
+    }
+}
 h2{
     color: greenyellow;
     padding:5px;
