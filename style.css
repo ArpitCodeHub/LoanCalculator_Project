@@ -35,6 +35,12 @@ input{
     border-radius: 10px;
 }
 
+}
+h2{
+    color: greenyellow;
+    padding:5px;
+}
+
 @media (max-width:500px){
     #container{
         height: 50vh;
@@ -51,8 +57,3 @@ input{
         height:4vh;
         width:18vh;
     }
-}
-h2{
-    color: greenyellow;
-    padding:5px;
-}
