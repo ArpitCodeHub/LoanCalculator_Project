@@ -46,6 +46,7 @@ h2{
     #container{
         height: 30rem;
         width:15rem;
+        box-shadow: blue 0px 5px 15px;
     }
     .col-heading{
         font-size:18px;
@@ -54,7 +55,7 @@ h2{
         font-size: 30px;
     }
     input{
-        height:1rem;
+        height:2rem;
         width:12rem;
     }
 }
